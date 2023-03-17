@@ -1,9 +1,10 @@
-#include <stdio.h>
+#include <stdio.h
 /**
-  *main - Entry point
-  *Description: 'print number of base 10'
-  *return: 0 (success)
- */
+  *main - entry point
+  *
+  *description: print numbers to base 10
+  *return: always 10
+  */
 int main(void)
 {
 	int n;
