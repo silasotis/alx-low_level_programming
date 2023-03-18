@@ -2,8 +2,8 @@
 /**
   *main - entry point
   *
-  *description: print numbers to base 10
-  *return: always 10
+  *Description: print numbers to base 10
+  *Return: always 10 (success)
   */
 int main(void)
 {
