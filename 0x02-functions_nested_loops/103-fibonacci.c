@@ -14,10 +14,10 @@ int main(void)
 	{
 	k += j;
 	if (k % 2 == 0)
-	sun += k;
+	sum += k;
 	j = k - j;
-	++i
+	++i;
 	}
-	printf("%ld\n", sun);
+	printf("%ld\n", sum);
 	return (0);
 }
